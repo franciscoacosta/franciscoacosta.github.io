@@ -1,8 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -477,6 +476,9 @@ h6,
 #ext_menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header1-27 .mbr-section-title {
+  font-size: 72px;
+}
 #features7-5 .card-subtitle {
   color: #bcbcbc;
 }
@@ -491,9 +493,14 @@ h6,
   text-align: left;
   color: #ffffff;
 }
-#content1-1q P {
+#msg-box5-28 H3 {
+  font-size: 30px;
   text-align: left;
-  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+}
+#msg-box5-28 P {
+  font-size: 17px;
+  text-align: left;
   color: #ffffff;
 }
 
