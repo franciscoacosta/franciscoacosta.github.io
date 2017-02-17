@@ -198,7 +198,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>18680 Singletary Lane<br>Miami FL, 3194<br><br><br>\n<strong>Contacts</strong><br>Email: facosta@miamiartsstudio.com<br>Phone:  786-564-0159<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Applications</li><li>Credentials</li><li>References</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "facosta@miamiartsstudio.com",
@@ -2998,7 +2998,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>18680 Singletary Lane<br>Miami FL, 3194<br><br><br>\n<strong>Contacts</strong><br>Email: facosta@miamiartsstudio.com<br>Phone:  786-564-0159<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Applications</li><li>Credentials</li><li>References</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "facosta@miamiartsstudio.com",
