@@ -479,6 +479,10 @@ h6,
 #header1-27 .mbr-section-title {
   font-size: 72px;
 }
+#header3-2q .mbr-section-title,
+#header3-2q .mbr-section-subtitle {
+  text-align: center;
+}
 
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
@@ -1426,11 +1430,20 @@ h6,
 #ext_menu-2c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box5-2j H3 {
+#header3-2p .mbr-section-title,
+#header3-2p .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box5-2r P {
+  font-size: 17px;
   color: #ffffff;
 }
-#msg-box5-2j P {
+#msg-box5-2r H3 {
   color: #ffffff;
+}
+#header3-2s .mbr-section-title,
+#header3-2s .mbr-section-subtitle {
+  text-align: center;
 }
 #features7-2e .card-subtitle {
   color: #bcbcbc;
@@ -1446,12 +1459,24 @@ h6,
   text-align: left;
   color: #ffffff;
 }
+#header3-2u .mbr-section-title,
+#header3-2u .mbr-section-subtitle {
+  text-align: center;
+}
 #content1-2f P {
   text-align: left;
   font-family: 'Raleway', sans-serif;
   color: #ffffff;
 }
+#header3-2o .mbr-section-title,
+#header3-2o .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons3-2k .mbr-section-title,
 #social-buttons3-2k .btn-social {
   color: #fff;
+}
+#header3-2t .mbr-section-title,
+#header3-2t .mbr-section-subtitle {
+  text-align: center;
 }
