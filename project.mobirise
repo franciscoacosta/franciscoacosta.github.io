@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Francisco Acosta",
-    "currentPage": "index.html",
+    "currentPage": "Introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2559,10 +2559,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2665,7 +2665,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-reserve-d4zfsmrit3i4fuxqs5gm-13129149325-7560b79cf2-o-jpg-2000x1324-38.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1462258409682-731445253757-2000x1125-42.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
