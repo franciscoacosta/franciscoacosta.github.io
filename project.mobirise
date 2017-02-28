@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Francisco Acosta",
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -153,11 +153,11 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": false,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "Francisco Javier Acosta Jr.",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Art Gallery</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a> "
         },
         {
           "_styles": {
