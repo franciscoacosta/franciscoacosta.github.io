@@ -1468,14 +1468,6 @@ h6,
   font-family: 'Raleway', sans-serif;
   color: #ffffff;
 }
-#header3-2o .mbr-section-title,
-#header3-2o .mbr-section-subtitle {
-  text-align: center;
-}
-#social-buttons3-2k .mbr-section-title,
-#social-buttons3-2k .btn-social {
-  color: #fff;
-}
 #header3-2t .mbr-section-title,
 #header3-2t .mbr-section-subtitle {
   text-align: center;
@@ -1486,5 +1478,13 @@ h6,
 }
 #header3-2x .mbr-section-title,
 #header3-2x .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box4-2y H3 {
+  font-size: 32px;
+  color: #ffffff;
+}
+#header3-30 .mbr-section-title,
+#header3-30 .mbr-section-subtitle {
   text-align: center;
 }
