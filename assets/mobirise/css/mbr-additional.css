@@ -1387,11 +1387,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-2c .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #ext_menu-2c .dropdown-item,
 #ext_menu-2c .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #ext_menu-2c .link:hover,
 #ext_menu-2c .dropdown-item:hover,
@@ -1479,10 +1479,6 @@ h6,
 #header3-2x .mbr-section-title,
 #header3-2x .mbr-section-subtitle {
   text-align: center;
-}
-#msg-box4-2y H3 {
-  font-size: 32px;
-  color: #ffffff;
 }
 #header3-30 .mbr-section-title,
 #header3-30 .mbr-section-subtitle {
