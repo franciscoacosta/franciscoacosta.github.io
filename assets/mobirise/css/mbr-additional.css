@@ -433,11 +433,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-3 .link {
-  font-size: 0.8rem;
+  font-size: 0.95rem;
 }
 #ext_menu-3 .dropdown-item,
 #ext_menu-3 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 1.029rem;
 }
 #ext_menu-3 .link:hover,
 #ext_menu-3 .dropdown-item:hover,
@@ -1449,8 +1449,8 @@ h6,
   color: #bcbcbc;
 }
 #features7-2e .iconbox {
-  background-color: #7e9b9f;
-  border-color: #7e9b9f;
+  background-color: #2e2e2e;
+  border-color: #2e2e2e;
 }
 #features7-2e H4 {
   color: #ffffff;
