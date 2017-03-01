@@ -2660,9 +2660,9 @@
           },
           "_anchor": "msg-box5-2r",
           "_params": {
-            "imageSize": "41",
+            "imageSize": "45",
             "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1474696100102-01b8519f06f3-2000x1333-38.jpg",
@@ -2686,7 +2686,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-1400x1000-5.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pic-1400x787-19.jpg",
               "link": "",
               "alt": "",
               "title": "",
