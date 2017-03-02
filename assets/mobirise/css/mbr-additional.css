@@ -1,7 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -418,8 +419,8 @@ h6,
 }
 #ext_menu-3 .navbar-caption {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  font-size: 24px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-3 .navbar-toggler {
   color: #ffffff;
@@ -489,8 +490,8 @@ h6,
 }
 #ext_menu-b .navbar-caption {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  font-size: 24px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-b .navbar-toggler {
   color: #ffffff;
@@ -1297,8 +1298,8 @@ h6,
 }
 #ext_menu-20 .navbar-caption {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  font-size: 24px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-20 .navbar-toggler {
   color: #ffffff;
@@ -1359,11 +1360,26 @@ h6,
 #header3-23 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-23 H3 {
+  color: #ffffff;
+}
+#header3-32 .mbr-section-title,
+#header3-32 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-33 .mbr-section-title,
+#header3-33 .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box2-25 .mbr-section-title {
   color: #fff;
 }
 #msg-box2-25 .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#header3-34 .mbr-section-title,
+#header3-34 .mbr-section-subtitle {
+  text-align: center;
 }
 
 
@@ -1372,8 +1388,8 @@ h6,
 }
 #ext_menu-2c .navbar-caption {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  font-size: 24px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-2c .navbar-toggler {
   color: #ffffff;
