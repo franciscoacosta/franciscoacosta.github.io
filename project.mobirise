@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Francisco Acosta",
-    "currentPage": "Master Piece Reproduction.html ",
+    "currentPage": "Introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,10 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 120,
-    "versionPublish": "3.10.4"
+    "uniqCompNum": 124,
+    "versionPublish": "3.10.4",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -99,7 +101,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -140,7 +142,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1443827187138-4e5e4e5ba78f-2000x1021-0.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/city-landscape-background-2000x1333-67-2000x1333-45.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -148,8 +150,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#c0a375",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#7c706b",
             "contentAlign": "center",
             "showTitle": true,
             "showText": false,
@@ -2673,7 +2675,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -2720,70 +2722,6 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "font-size": "17px",
-              "color": "#ffffff"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box5-2r",
-          "_params": {
-            "imageSize": "45",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1462007895615-c8c073bebcd8-2000x1333-3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/watch?v=ZBYI3euHu0catch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/pic-1400x787-19.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Biography",
-          "text": "Since the age of 9 years old I was interested in Space Shuttles and the way they worked.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Introduction.html#content1-2f\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -2802,6 +2740,67 @@
           },
           "title": "",
           "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3d",
+          "_params": {
+            "imageSize": "35",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-2000x1125-2000x1125-17.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pic-1400x787-1400x1520-1400x1520-25.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BIOGRAPHY",
+          "text": "Since the age of 9 years old I was interested in Space Shuttles and the way they worked. Now at this day and age, i realize how mathematically and preciselly planed outthese modern marvels are. So i have been latelly facinated by the architecture and design behind modern day skyskrapers, airplanes, cruise ships, etc.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "features4",
@@ -2879,7 +2878,7 @@
           },
           "title2": "Logo Designer",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "logo design has been on the back of my head since I saw and realized how simple yet genius these big companies have there logos. Perfect example, Nike or Apple.",
+          "caption2": "Logo design has been on the back of my head since I saw and realized how simple yet genius these big companies have there logos. Perfect example, Nike or Apple.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -3020,12 +3019,12 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-24-dsc02021-jpg-2000x1329-83-2000x1329-96.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
+            "bgColorRadio": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
@@ -3053,37 +3052,38 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-31",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#d14841"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/channel/UCWbY91yFdK3bR3HwC7yooWg\" data-toolbar=\"-mbrBtnMove\">CHECK OUT MY YOUTUBE CHANNEL</a> "
-        },
-        {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-30",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3f",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#5e5c5c",
-            "showMeta": false
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483936430527-052964fdfb40-2000x1333-17-2000x1333-50.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
           },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Youtube Channel",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Subscribe</a>"
         },
         {
           "_tags": [
@@ -3224,7 +3224,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
