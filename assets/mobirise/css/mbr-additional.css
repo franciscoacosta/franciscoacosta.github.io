@@ -1450,16 +1450,15 @@ h6,
 #header3-2p .mbr-section-subtitle {
   text-align: center;
 }
-#msg-box5-2r P {
-  font-size: 17px;
-  color: #ffffff;
-}
-#msg-box5-2r H3 {
-  color: #ffffff;
-}
 #header3-2s .mbr-section-title,
 #header3-2s .mbr-section-subtitle {
   text-align: center;
+}
+#msg-box5-3d P {
+  color: #ffffff;
+}
+#msg-box5-3d H3 {
+  color: #ffffff;
 }
 #features7-2e .card-subtitle {
   color: #bcbcbc;
@@ -1496,9 +1495,9 @@ h6,
 #header3-2x .mbr-section-subtitle {
   text-align: center;
 }
-#header3-30 .mbr-section-title,
-#header3-30 .mbr-section-subtitle {
-  text-align: center;
+#msg-box8-3f .mbr-section-title,
+#msg-box8-3f p {
+  color: #fff;
 }
 
 #ext_menu-35 .hide-buttons .nav-btn {
