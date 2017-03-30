@@ -484,6 +484,10 @@ h6,
 #header3-2q .mbr-section-subtitle {
   text-align: center;
 }
+#msg-box8-3i .mbr-section-title,
+#msg-box8-3i p {
+  color: #fff;
+}
 
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
