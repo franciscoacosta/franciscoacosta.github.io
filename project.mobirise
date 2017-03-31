@@ -196,11 +196,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3i",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/blue-radial-gradient-background-2000x1041.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -208,10 +208,10 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/RdUYF2u8AIw?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#475577",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#7c706b",
             "showTitle": true,
             "showText": false,
             "showButton": true
