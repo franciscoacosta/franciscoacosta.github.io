@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Francisco Acosta",
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -206,19 +206,19 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/hNQFjqDvPhA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/RdUYF2u8AIw?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#475577",
             "showTitle": true,
             "showText": false,
             "showButton": true
           },
           "title": "<p>\"The Science of today is the technology of tomorrow\"<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~Edward Teller&nbsp;</p>",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View My Story</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=5Aw_K4h3NcU\" data-toolbar=\"-mbrBtnMove\">View My Story</a>"
         },
         {
           "_styles": {
@@ -226,7 +226,8 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -240,7 +241,7 @@
             "bgColor": "#2e2e2e",
             "showMeta": false
           },
-          "title": "Porfolio Samples",
+          "title": "Portfolio Samples",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -252,16 +253,6 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/francisco-acosta-sights-and-sounds-of-the-60s-combined-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/francisco-acosta-sights-and-sounds-of-the-60s-combined-2000x1545.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
               {
                 "tags": "Responsive",
                 "playVideo": false,
@@ -289,6 +280,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4-2000x1545-800x618.png",
                 "image": "@PROJECT_PATH@/assets/images/4-2000x1545.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1545-800x618.png",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1545.png",
                 "caption": "Type caption here",
                 "active": true
               }
