@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 127,
+    "uniqCompNum": 130,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -62,10 +62,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -97,7 +97,7 @@
           "_anchor": "ext_menu-3",
           "_params": {
             "bgColor": "#202123",
-            "fontSize": "0.85",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -185,6 +185,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "22px"
             }
           },
           "_tags": [
@@ -209,13 +212,98 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": true
           },
-          "title": "ARTICLE HEADER",
+          "title": "<p>\"The Science of today is the technology of tomorrow\"<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~Edward Teller&nbsp;</p>",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=5Aw_K4h3NcU\" data-toolbar=\"-mbrBtnMove\">VIEW MY STORY</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View My Story</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e",
+            "showMeta": false
+          },
+          "title": "Porfolio Samples",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/francisco-acosta-sights-and-sounds-of-the-60s-combined-2000x1545-800x618.jpg",
+                "image": "@PROJECT_PATH@/assets/images/francisco-acosta-sights-and-sounds-of-the-60s-combined-2000x1545.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/francisco-acosta-sights-and-sounds-of-the-60s-combined-2000x1545-800x618.png",
+                "image": "@PROJECT_PATH@/assets/images/francisco-acosta-sights-and-sounds-of-the-60s-combined-2000x1545.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1545-800x618.png",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1545.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1545-800x618.png",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1545.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-3l",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -224,8 +312,8 @@
           "_name": "contacts4",
           "_anchor": "contacts4-29",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1465429519837-5ba237ccd330-2000x1335-89.jpg",
@@ -2672,10 +2760,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2707,7 +2795,7 @@
           "_anchor": "ext_menu-2c",
           "_params": {
             "bgColor": "#202123",
-            "fontSize": "0.85",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2794,10 +2882,10 @@
           "_params": {
             "imageSize": "35",
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/897205-2000x1250-57.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2805,8 +2893,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#28324e",
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -2836,7 +2924,7 @@
           },
           "title": "BIOGRAPHY",
           "text": "Since the age of 9 years old I was interested in Space Shuttles and the way they worked. Now at this day and age, i realize how mathematically and preciselly planed outthese modern marvels are. So i have been latelly facinated by the architecture and design behind modern day skyskrapers, airplanes, cruise ships, etc.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"Introduction.html#content1-2f\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "features4",
@@ -3119,7 +3207,7 @@
           },
           "title": "Youtube Channel",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/channel/UCWbY91yFdK3bR3HwC7yooWg\" data-toolbar=\"-mbrBtnMove\">Subscribe</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Subscribe</a>"
         },
         {
           "_tags": [
