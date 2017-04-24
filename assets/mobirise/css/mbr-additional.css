@@ -778,7 +778,19 @@ h6,
   font-size: 36px;
   color: #232323;
 }
+#header3-3q .mbr-section-title,
+#header3-3q .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box4-3n H3 {
+  font-size: 36px;
+  color: #232323;
+}
+#header3-3p .mbr-section-title,
+#header3-3p .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box4-3o H3 {
   font-size: 36px;
   color: #232323;
 }
