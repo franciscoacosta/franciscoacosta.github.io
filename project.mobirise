@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Francisco Acosta",
-    "currentPage": "index.html",
+    "currentPage": "Adobe Premiere.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1124,13 +1124,13 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "font-size": "36px",
+              "font-size": "30px",
               "color": "#232323"
             }
           },
           "_anchor": "msg-box4-3m",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "38",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -1200,13 +1200,13 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "font-size": "36px",
+              "font-size": "30px",
               "color": "#232323"
             }
           },
           "_anchor": "msg-box4-3n",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "38",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -1276,13 +1276,13 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "font-size": "36px",
+              "font-size": "30px",
               "color": "#232323"
             }
           },
           "_anchor": "msg-box4-3o",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "38",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
