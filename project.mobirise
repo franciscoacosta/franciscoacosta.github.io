@@ -1309,7 +1309,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=f3-fQlsFjus",
+              "src": "https://www.youtube.com/watch?v=8dsSbyOuTD0",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1320,9 +1320,9 @@
               "size": 250
             }
           },
-          "title": "A Thousand Million Reasons - Colin Hayes",
+          "title": "A Thousand Million Reasons - Colin Hayes (Final Draft)",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=f3-fQlsFjus\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=8dsSbyOuTD0\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -3378,7 +3378,7 @@
           },
           "title": "Youtube Channel",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Subscribe</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/channel/UCWbY91yFdK3bR3HwC7yooWg\" data-toolbar=\"-mbrBtnMove\">Subscribe</a>"
         },
         {
           "_tags": [
